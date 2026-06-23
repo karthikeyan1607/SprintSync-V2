@@ -28,7 +28,7 @@ export default function SettingsView({
   projectName,
   areaPath,
   iterationPath,
-  azureFunctionUrl = '/api',
+  azureFunctionUrl = 'https://sprintsync-backend-f1va.onrender.com/api',
   onUpdateSettings,
 }: SettingsViewProps) {
   
