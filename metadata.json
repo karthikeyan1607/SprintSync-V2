@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Energizer SprintSync New modifications",
+  "description": "Import Sprint Planning data from Confluence and automatically create Azure DevOps User Stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
